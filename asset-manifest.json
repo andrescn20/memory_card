@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/react-gh-pages/static/css/main.b596bdf2.css",
+    "main.js": "/react-gh-pages/static/js/main.c4ed7473.js",
+    "static/media/olympia-history-1280.webp": "/react-gh-pages/static/media/olympia-history-1280.7f4e863a506d8815b451.webp",
+    "static/media/PraetoriaD.otf": "/react-gh-pages/static/media/PraetoriaD.7c3535ce751adcbe5928.otf",
+    "static/media/heorote.ttf": "/react-gh-pages/static/media/heorote.86fe7e14cc2b54f29ded.ttf",
+    "index.html": "/react-gh-pages/index.html",
+    "main.b596bdf2.css.map": "/react-gh-pages/static/css/main.b596bdf2.css.map",
+    "main.c4ed7473.js.map": "/react-gh-pages/static/js/main.c4ed7473.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b596bdf2.css",
+    "static/js/main.c4ed7473.js"
+  ]
+}
