@@ -1,0 +1,27 @@
+.card {
+  align-items: center;
+  border-radius: 20px;
+  overflow: hidden;
+  justify-content: flex-start;
+  position: relative;
+  margin-bottom: 20px;
+}
+
+.image {
+  width: 100%;
+}
+
+.nameContainer {
+  width: 100%;
+  position: absolute;
+  bottom: 8px;
+  margin-left: auto;
+  margin-right: auto;
+  background-color: rgba(255, 255, 255, 0.616);
+  display: flex;
+  justify-content: center;
+}
+.name {
+  font-size: 18px;
+  color: rgb(2, 2, 2);
+}

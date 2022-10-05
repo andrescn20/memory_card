@@ -1,0 +1,27 @@
+@font-face {
+  font-family: 'heor';
+  src: local('heor'), url('../Fonts/heorot/heorote.ttf') format('woff');
+}
+
+* {
+  padding: 0px;
+  margin: 0px;
+}
+
+.mainContainer {
+  font-family: heor;
+  height: 100%;
+  width: 100vw;
+  overflow: hidden;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  align-items: center;
+}
+.cardContainer {
+  width: 75vw;
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  grid-template-rows: repeat(2, 30vh);
+  gap: 10px;
+}
