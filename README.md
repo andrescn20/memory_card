@@ -3,7 +3,7 @@
 Simple game created as part of The Odin Project curriculum.
 Meant for practicing the use of Hooks in functional components.
 
-##Live Demo: 
+## Live Demo: 
 
 https://andrescn20.github.io/memory_card/
 
